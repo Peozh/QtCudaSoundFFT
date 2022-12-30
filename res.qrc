@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>deviceControllers.qml</file>
+        <file>horizontalSlider.qml</file>
+        <file>verticalSlider.qml</file>
+        <file>MyLongComboBox.qml</file>
+        <file>soundManager.qml</file>
+        <file>filterBoxListView.qml</file>
+        <file>filterProfile.qml</file>
+        <file>MyChartView.qml</file>
+        <file>loadingDialog.qml</file>
+    </qresource>
+</RCC>
