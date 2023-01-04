@@ -2,6 +2,19 @@
 
 ## Preview
 ![preview](https://user-images.githubusercontent.com/35257391/210584219-59c8571f-63ea-4953-b0a2-dea50a4811f3.png)
+ - Only .wav(PCM) MONO8/MONO16 file can be played
+ - Sound capturing from input device(microphone) supported
+
+## How to Use
+ - Search Devices : search available mics, speakers
+ - Search Wave File : search .wav file from file system. replace input device
+ - Load Devices : load selected input device or .wav file. load selected output device
+ - Record/Stop Record
+ - Play/Stop Play
+ - draw filter boxes using mouse
+ - change filter box name/weight/ranges
+ - Apply Change
+ - Unload Devices
 
 ## Used Environment
  - Windows 10 64-bit
