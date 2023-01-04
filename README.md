@@ -1,5 +1,8 @@
 # QtCudaSoundFFT
 
+## Preview
+![preview](https://user-images.githubusercontent.com/35257391/210584219-59c8571f-63ea-4953-b0a2-dea50a4811f3.png)
+
 ## Used Environment
  - Windows 10 64-bit
  - NVIDIA GPU
@@ -33,5 +36,3 @@ https://github.com/kcat/openal-soft
 
 ## Build Qt Project
 qmake, .pro
-
-## Preview
