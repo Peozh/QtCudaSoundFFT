@@ -29,6 +29,9 @@
 ### build .dll
 build .dll from .cu, .h\
 nvcc.exe from NVIDIA GPU Computing Toolkit
+ - -I : C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include
+ - Optional include headers(helper_*.h, exception.h) for error check : https://github.com/NVIDIA/cuda-samples/tree/master/Common
+ - -L : C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\lib\x64
 ```shell
 nvcc.exe -o myCudaForQt.dll --shared myCudaForQt.cu -I "..\Linking\include" -L "..\Linking\lib" -l cufft
 ```
