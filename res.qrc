@@ -7,7 +7,6 @@
         <file>soundManager.qml</file>
         <file>filterBoxListView.qml</file>
         <file>filterProfile.qml</file>
-        <file>MyChartView.qml</file>
         <file>loadingDialog.qml</file>
     </qresource>
 </RCC>

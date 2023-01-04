@@ -57,3 +57,6 @@ LIBS += \
     -L"C:\\Coding\\QtCreator\\qtWidgetsApplicationTest" \
     -l"cudart" \
     -l"myCudaForQt"
+
+DISTFILES += \
+    myCudaForQt.cu
